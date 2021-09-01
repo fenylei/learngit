@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks chenges.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
+Fast-forward merge test.
