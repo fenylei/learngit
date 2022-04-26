@@ -1,2 +1,1 @@
-print("Hellow world!q
-")
+print("Hellow world!q")
